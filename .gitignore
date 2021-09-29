@@ -2,9 +2,3 @@ node_modules
 .env
 .idea
 yarn.lock
-.txt
-*/.png
-*/.jpg
-*/.svg
-*/.jpeg
-*/.gif
